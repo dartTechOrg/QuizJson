@@ -1,0 +1,2470 @@
+{
+  "Easy": {
+    "results": [
+      {
+        "category": "Mathematics",
+        "correct_answer": "9",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "8",
+          "10",
+          "7"
+        ],
+        "question": "What comes after 8?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "6",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "5",
+          "7",
+          "8"
+        ],
+        "question": "What is 2 x 3?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "12",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "10",
+          "14",
+          "16"
+        ],
+        "question": "What is 3 x 4?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "15",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "10",
+          "12",
+          "20"
+        ],
+        "question": "What is 5 x 3?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "14",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "12",
+          "15",
+          "16"
+        ],
+        "question": "What is 7 + 7?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "4",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "6"
+        ],
+        "question": "What is 2 + 2?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "20",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "15",
+          "18",
+          "22"
+        ],
+        "question": "What is 5 x 4?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "4",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "2"
+        ],
+        "question": "What is 10 - 6?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "10",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "9",
+          "11",
+          "12"
+        ],
+        "question": "What is 9 + 1?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "4",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "6"
+        ],
+        "question": "What is 12 ÷ 3?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "36",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "30",
+          "32",
+          "40"
+        ],
+        "question": "What is 6 x 6?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "19",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "18",
+          "21",
+          "17"
+        ],
+        "question": "What comes before 20?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "50",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "40",
+          "60",
+          "70"
+        ],
+        "question": "What is 100 - 50?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "56",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "54",
+          "55",
+          "64"
+        ],
+        "question": "What is 7 x 8?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "50",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "40",
+          "45",
+          "60"
+        ],
+        "question": "What is 25 + 25?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "6",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "5",
+          "7",
+          "8"
+        ],
+        "question": "What is 30 ÷ 5?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "20",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "18",
+          "19",
+          "21"
+        ],
+        "question": "What is 11 + 9?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "8",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "7",
+          "9",
+          "6"
+        ],
+        "question": "What is 15 - 7?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "24",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "22",
+          "26",
+          "28"
+        ],
+        "question": "What is 2 x 12?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "30",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "29",
+          "31",
+          "32"
+        ],
+        "question": "What is 3 more than 27?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "5",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "4",
+          "6",
+          "10"
+        ],
+        "question": "What is 50 ÷ 10?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "60",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "50",
+          "55",
+          "70"
+        ],
+        "question": "What is 40 + 20?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "81",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "72",
+          "90",
+          "99"
+        ],
+        "question": "What is 9 x 9?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "4",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "6"
+        ],
+        "question": "What is 100 ÷ 25?",
+        "type": "multiple"
+      },
+      {
+        "category": "Mathematics",
+        "correct_answer": "56",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "54",
+          "57",
+          "60"
+        ],
+        "question": "What is 8 x 7?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Cat",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Dog",
+          "Rat",
+          "Bat"
+        ],
+        "question": "Which word rhymes with 'Hat'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "A",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "B",
+          "C",
+          "D"
+        ],
+        "question": "What is the first letter of the English alphabet?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Apple",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Banana",
+          "Mango",
+          "Orange"
+        ],
+        "question": "Which word starts with the letter 'A'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Books",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Bookes",
+          "Buks",
+          "Bock"
+        ],
+        "question": "What is the correct spelling?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Dog",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Log",
+          "Fog",
+          "Cog"
+        ],
+        "question": "Which animal is called 'man's best friend'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Cold",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Warm",
+          "Heat",
+          "Fire"
+        ],
+        "question": "What is the opposite of 'Hot'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Fun",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Run",
+          "Gun",
+          "Moon"
+        ],
+        "question": "Which word rhymes with 'Sun'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Children",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Childs",
+          "Childes",
+          "Childrens"
+        ],
+        "question": "What is the plural of 'Child'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "E",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "B",
+          "C",
+          "D"
+        ],
+        "question": "Which is a vowel?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "D",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "E",
+          "B",
+          "F"
+        ],
+        "question": "What comes after letter 'C'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Small",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Tall",
+          "Huge",
+          "Tiny"
+        ],
+        "question": "What is the opposite of 'Big'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Red",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Bed",
+          "Led",
+          "Fed"
+        ],
+        "question": "Which word is a color?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Lion",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Table",
+          "Chair",
+          "Car"
+        ],
+        "question": "Which is an animal?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Books",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Bookes",
+          "Buks",
+          "Bock"
+        ],
+        "question": "What is the plural of 'Book'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Night",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Morning",
+          "Sun",
+          "Light"
+        ],
+        "question": "What is the opposite of 'Day'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Bee",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Tea",
+          "Toe",
+          "Tap"
+        ],
+        "question": "Which word rhymes with 'Tree'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Y",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "X",
+          "W",
+          "V"
+        ],
+        "question": "What comes before 'Z'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Mango",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Potato",
+          "Carrot",
+          "Onion"
+        ],
+        "question": "Which is a fruit?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "School",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Skool",
+          "Schol",
+          "Skhul"
+        ],
+        "question": "Which word is spelled correctly?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Sad",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Smile",
+          "Joy",
+          "Glad"
+        ],
+        "question": "What is the opposite of 'Happy'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Hand",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Hat",
+          "Bag",
+          "Book"
+        ],
+        "question": "Which is a body part?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Buses",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Busss",
+          "Buss",
+          "Bussies"
+        ],
+        "question": "What is the plural of 'Bus'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Tall",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Tell",
+          "Bell",
+          "Bowl"
+        ],
+        "question": "Which word rhymes with 'Ball'?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Parrot",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Dog",
+          "Cat",
+          "Cow"
+        ],
+        "question": "Which is a bird?",
+        "type": "multiple"
+      },
+      {
+        "category": "English",
+        "correct_answer": "Friend",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Freind",
+          "Frend",
+          "Frind"
+        ],
+        "question": "Which word is spelled correctly?",
+        "type": "multiple"
+      }
+    ]
+  },
+  "Facebook": {
+    "results": [
+      {
+        "category": "Technology",
+        "correct_answer": "Central Processing Unit",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Computer Personal Unit",
+          "Central Performance Unit",
+          "Control Panel Unit"
+        ],
+        "question": "What does CPU stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Java",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Swift",
+          "Kotlin",
+          "Python"
+        ],
+        "question": "What is the main language used for Android app development?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Microsoft",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Apple",
+          "Google",
+          "IBM"
+        ],
+        "question": "Which company developed the Windows operating system?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "HyperText Markup Language",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Hyper Tool Markup Language",
+          "Hyperlinks and Text Markup Language",
+          "HighText Machine Language"
+        ],
+        "question": "What does HTML stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Apple",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Samsung",
+          "Google",
+          "Nokia"
+        ],
+        "question": "Which company manufactures the iPhone?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Universal Serial Bus",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Universal System Block",
+          "United Serial Block",
+          "Ultra Storage Bus"
+        ],
+        "question": "What does USB stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Instagram",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Twitter",
+          "Snapchat",
+          "LinkedIn"
+        ],
+        "question": "Which social media platform is owned by Meta?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "JavaScript",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "C",
+          "Python",
+          "Swift"
+        ],
+        "question": "Which programming language is used for web apps?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Artificial Intelligence",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Automatic Interface",
+          "Advanced Internet",
+          "Applied Information"
+        ],
+        "question": "What is the full form of AI?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Bill Gates",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Steve Jobs",
+          "Mark Zuckerberg",
+          "Elon Musk"
+        ],
+        "question": "Who is the founder of Microsoft?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Modem",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "CPU",
+          "Hard Drive",
+          "Monitor"
+        ],
+        "question": "Which device is used to connect a computer to the internet?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "CPU",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "RAM",
+          "ROM",
+          "Hard Disk"
+        ],
+        "question": "What is the brain of the computer called?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Google",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Facebook",
+          "Yahoo Mail",
+          "YouTube"
+        ],
+        "question": "Which one is a search engine?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Bluetooth",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "USB",
+          "HDMI",
+          "Ethernet"
+        ],
+        "question": "Which technology is used for wireless communication?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Wireless Fidelity",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Wired Fire",
+          "Wide Frequency",
+          "Wireless Fiber"
+        ],
+        "question": "What does Wi-Fi stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Swift",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Java",
+          "C#",
+          "Dart"
+        ],
+        "question": "Which language is used for iOS app development?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Random Access Memory",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Read Access Memory",
+          "Ready Available Memory",
+          "Run Access Memory"
+        ],
+        "question": "What does RAM stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Zoom",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Spotify",
+          "Instagram",
+          "Slack"
+        ],
+        "question": "Which app is used for video conferencing?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Google",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Microsoft",
+          "Apple",
+          "Samsung"
+        ],
+        "question": "Which company owns Android OS?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Hard Drive",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "RAM",
+          "Cache",
+          "Processor"
+        ],
+        "question": "What is used to store large amounts of data permanently?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "HyperText Transfer Protocol",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "HighText Transfer Protocol",
+          "Hyper Tool Transfer Protocol",
+          "Hyper Transfer Text Program"
+        ],
+        "question": "What does HTTP stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Input",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Output",
+          "Storage",
+          "Processing"
+        ],
+        "question": "What kind of device is a keyboard?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Python",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Java",
+          "HTML",
+          "C++"
+        ],
+        "question": "Which language is used for machine learning?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Battery",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Charger",
+          "CPU",
+          "Power Adapter"
+        ],
+        "question": "What is used to power a laptop without being plugged in?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Ctrl + C",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Ctrl + V",
+          "Ctrl + X",
+          "Ctrl + Z"
+        ],
+        "question": "What is the shortcut key for copy on Windows?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Monitor",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Keyboard",
+          "Mouse",
+          "Scanner"
+        ],
+        "question": "Which device displays the output from the computer?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Linux",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Chrome",
+          "Excel",
+          "Photoshop"
+        ],
+        "question": "Which of these is an operating system?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Search Engine Optimization",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Secure Email Option",
+          "System End Operation",
+          "Serial Entry Output"
+        ],
+        "question": "What does SEO stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Google",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Apple",
+          "Samsung",
+          "OnePlus"
+        ],
+        "question": "Which tech company makes the Pixel smartphone?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Python",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Firefox",
+          "Google",
+          "Photoshop"
+        ],
+        "question": "Which of these is a computer programming language?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Text Editor",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Video Editor",
+          "Audio Editor",
+          "Photo Editor"
+        ],
+        "question": "What is used to write code?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Apple",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Dell",
+          "HP",
+          "Lenovo"
+        ],
+        "question": "Which company created the MacBook?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Facebook",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Chrome",
+          "Firefox",
+          "Safari"
+        ],
+        "question": "Which of the following is not a web browser?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": ".js",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          ".java",
+          ".py",
+          ".txt"
+        ],
+        "question": "What is the file extension for a JavaScript file?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "JavaScript",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Python",
+          "C++",
+          "Java"
+        ],
+        "question": "Which programming language runs in a browser?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Microsoft",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Apple",
+          "Oracle",
+          "Dell"
+        ],
+        "question": "What company makes Windows OS?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Uniform Resource Locator",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Universal Response Link",
+          "Uniform Response List",
+          "User Resource Link"
+        ],
+        "question": "What does URL stand for?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Malicious software",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Hardware tool",
+          "Cleaning software",
+          "Backup file"
+        ],
+        "question": "What is a virus in computer terminology?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "HTML",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "MS Word",
+          "Notepad",
+          "Excel"
+        ],
+        "question": "Which of the following is used to create websites?",
+        "type": "multiple"
+      },
+      {
+        "category": "Technology",
+        "correct_answer": "Apple",
+        "difficulty": "easy",
+        "incorrect_answers": [
+          "Google",
+          "Microsoft",
+          "Samsung"
+        ],
+        "question": "Which company created Siri?",
+        "type": "multiple"
+      }
+    ]
+  },
+  "Hard": {
+    "results": [
+      {
+        "category": "Railway",
+        "correct_answer": "Northern Railway",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Western Railway",
+          "Eastern Railway",
+          "South Eastern Railway"
+        ],
+        "question": "Which railway zone in India has the highest route kilometers as of 2025?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Broad Gauge",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Meter Gauge",
+          "Narrow Gauge",
+          "Standard Gauge"
+        ],
+        "question": "What is the gauge of the Konkan Railway?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Wagino train from Dadri to Sonnagar",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Freight Express from Delhi to Mumbai",
+          "DFC Trial Freight",
+          "Parcel Express"
+        ],
+        "question": "Which was the first train to run on India's first dedicated freight corridor (DFC)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "European Train Control System (ETCS) Level 2",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Automatic Block Signaling",
+          "Pulse Code Cab Signaling",
+          "ACSES"
+        ],
+        "question": "Which signaling system is used on the Delhi–Mumbai Dedicated Freight Corridor (DFC)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "WAG-12B",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "WAG-9",
+          "WAP-7",
+          "WAG-8"
+        ],
+        "question": "Which locomotive is India’s first indigenous high-horsepower electric locomotive?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "22.5 tonnes",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "18 tonnes",
+          "20 tonnes",
+          "25 tonnes"
+        ],
+        "question": "What is the axle load of Indian Railways broad-gauge locomotives for freight on main lines?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Vande Bharat Express",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Gatimaan Express",
+          "Shatabdi Express",
+          "Rajdhani Express"
+        ],
+        "question": "Which train holds the record for the highest speed reached by an Indian Railways train in commercial service (2023)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "1925",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1930",
+          "1947",
+          "1915"
+        ],
+        "question": "What year was electric overhead traction introduced on Indian Railways?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Both Eastern and Western Dedicated Freight Corridors",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Eastern DFC only",
+          "Western DFC only",
+          "None"
+        ],
+        "question": "Which freight corridor uses 25 kV AC electrification?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Automatic Block Signaling",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Token Block",
+          "Staff and Ticket",
+          "Absolute Block"
+        ],
+        "question": "Which signalling block system is primarily used on high-speed corridors in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "6.5 kilometers",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "10.2 km",
+          "4.3 km",
+          "8.1 km"
+        ],
+        "question": "What is the culminating length of the longest tunnel on the Konkan Railway?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Ghum (Upper Ghat)",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Darjeeling",
+          "Shimla",
+          "Kalka"
+        ],
+        "question": "Which is the highest railway station in India by altitude?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Chittaranjan and DLW Varanasi",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "VDA and ICF",
+          "ICF only",
+          "VDA and CLW"
+        ],
+        "question": "Which Indian locomotive factories produce WAP-7 electric locomotives?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Semi-high speed train Vande Bharat (TM)",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Gatimaan Express",
+          "Shatabdi Express",
+          "Tejas Express"
+        ],
+        "question": "Which is India's first semi high-speed train manufactured by an Indian PSU?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Prevent train-to-train collisions automatically",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Manage station arrivals",
+          "Automate coach coupling",
+          "Improve passenger comfort"
+        ],
+        "question": "What is the purpose of the Train Collision Avoidance System (TCAS)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Mn–Mo steel",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Carbon steel",
+          "Stainless steel",
+          "High-strength alloy"
+        ],
+        "question": "What is the primary material used for Indian broad-gauge rails?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Vande Bharat Express",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Rajdhani Express",
+          "Shatabdi Express",
+          "Duronto Express"
+        ],
+        "question": "Which of these trains uses an Anti-lock braking system (ABS)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Southern Railway",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "South Western Railway",
+          "South Central Railway",
+          "Western Railway"
+        ],
+        "question": "Which zone operates the Nilgiri Mountain Railway?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Lucknow",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Mumbai",
+          "Chennai",
+          "Kolkata"
+        ],
+        "question": "Where is the Indian Railways Research Design and Standards Organisation (RDSO) located?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Vande Bharat Express",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Gatimaan Express",
+          "Valiant Express",
+          "Rajdhani Express"
+        ],
+        "question": "Which train blew the Indian Railways speed record of 160 km/h?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "840 mm",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "760 mm",
+          "920 mm",
+          "1000 mm"
+        ],
+        "question": "What is the standard platform height above rail level in India (in broad gauge)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Katihar division",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Howrah division",
+          "Alipurduar division",
+          "Malda division"
+        ],
+        "question": "Which railway division manages the Darjeeling Himalayan Railway?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Nilgiri Mountain Railway",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Darjeeling Himalayan Railway",
+          "Kalka–Shimla Railway",
+          "Bhopal–Itarsi Railway"
+        ],
+        "question": "Which is the only rack railway system in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "2017",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "2015",
+          "2010",
+          "2020"
+        ],
+        "question": "Which year did Indian Railways fully convert to broad gauge network?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Darjeeling Himalayan Railway",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Nilgiri Mountain Railway",
+          "Kalka–Shimla Railway",
+          "Matheran Hill Railway"
+        ],
+        "question": "Which is the oldest working mountain railway in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "18 tonnes",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "16 tonnes",
+          "20 tonnes",
+          "22.5 tonnes"
+        ],
+        "question": "What is the typical axle load for passenger coaches in Indian Railways?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Gorakhpur Junction",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Howrah Junction",
+          "Kharagpur Junction",
+          "Chennai Central"
+        ],
+        "question": "Which Indian railway station has the highest number of platforms?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Kavach",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "ETCS",
+          "TCAS",
+          "ACSES"
+        ],
+        "question": "Which train protection system is being trialed on the Mumbai suburban railway?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Central Railway",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Northern Railway",
+          "Western Railway",
+          "Eastern Railway"
+        ],
+        "question": "Which zone first introduced LHB coaches in passenger service?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "WDM-2",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "WAP-4",
+          "WDM-3A",
+          "WAP-5"
+        ],
+        "question": "Which locomotive class hauled the first Shatabdi Express in 1988?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "25.5 tonnes",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "22.5 tonnes",
+          "24 tonnes",
+          "26 tonnes"
+        ],
+        "question": "What is the axle load capacity for the Dedicated Freight Corridor locomotives (WAG-12B)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Hyderabad–Secunderabad double-decker",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Kolkata–Patna double-decker",
+          "Lucknow double-decker",
+          "Mumbai double-decker"
+        ],
+        "question": "Which was India's first double-decker train?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "LHB coach",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "ICF coach",
+          "MG coach",
+          "Narrow gauge coach"
+        ],
+        "question": "Which coach type uses pneumatic suspension in Indian Railways?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Radio-based Automatic Train Protection",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Satellite GPS",
+          "Track circuit alone",
+          "ETCS only"
+        ],
+        "question": "What technology is used in India's Kavach train collision avoidance system?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Konkan Railway reports to Indian Railways directly",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Western Railway",
+          "Central Railway",
+          "Southern Railway"
+        ],
+        "question": "Which zone oversees the Konkan Railway Corporation?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Bogibeel Bridge",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Kalna–Kandi Bridge",
+          "Vandebhil Bridge",
+          "Hathni Kund Barrage"
+        ],
+        "question": "Which is the longest bridge on Indian Railways?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "50 Hz AC supervised feeder",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "60 Hz",
+          "25 Hz",
+          "None"
+        ],
+        "question": "What is the core frequency of Indian broad-gauge signaling circuits?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Dibrugarh–Kanyakumari Vivek Express",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Gandhi Nagar–Kamakhya Express",
+          "Himsagar Express",
+          "Thiruvananthapuram Rajdhani"
+        ],
+        "question": "Which train runs on the longest continuous route in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Badarpur marshalling yard",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Ludhiana yard",
+          "Itarsi yard",
+          "Mughalsarai yard"
+        ],
+        "question": "Which yard uses hump yard classification in Indian Railways?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Chittaranjan–Asansol (3 kV DC)",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Bombay VT–Kurla",
+          "Bengaluru–Mysuru",
+          "Delhi–Meerut"
+        ],
+        "question": "Which is the first railway line electrified in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "RITES",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "IRCON",
+          "IRFC",
+          "RVNL"
+        ],
+        "question": "Which stock code is used by RITES Ltd on Indian stock exchanges (a railway PSU)?",
+        "type": "multiple"
+      },
+      {
+        "category": "Railway",
+        "correct_answer": "Mahuva–Dhola line conversion",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Nagpur–Balharshah",
+          "Jammu–Baramulla",
+          "Arcot–Tiruvannamalai"
+        ],
+        "question": "Which gauge conversion project of Indian Railways was proclaimed complete in 2018?",
+        "type": "multiple"
+      }
+    ]
+  },
+  "Medium": {
+    "results": [
+      {
+        "category": "Government Competition",
+        "correct_answer": "5 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "4 years",
+          "6 years",
+          "3 years"
+        ],
+        "question": "What is the maximum term of the Lok Sabha in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Only via a constitutional amendment that doesn't alter basic structure upheld by Supreme Court",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Central Government",
+          "State Governments",
+          "Either government"
+        ],
+        "question": "Who can amend the basic structure of the Indian Constitution?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Article 280",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Article 275",
+          "Article 300",
+          "Article 265"
+        ],
+        "question": "Under which Article of the Constitution is the Finance Commission appointed?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Central government on Niti Aayog’s recommendation",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Constitutional Council",
+          "Prime Minister",
+          "State Governments"
+        ],
+        "question": "Who determines the EWS reservation limits in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Advocate-on-Record",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Solicitor General",
+          "Paralegal",
+          "Public Prosecutor"
+        ],
+        "question": "What is a lawyer in the Supreme Court of India called?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Uttarakhand",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Madhya Pradesh",
+          "Haryana",
+          "Himachal Pradesh"
+        ],
+        "question": "By partitioning the State of Uttar Pradesh, which state was created?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Jammu and Kashmir",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Arunachal Pradesh",
+          "Punjab",
+          "Bihar"
+        ],
+        "question": "Which Indian territory is claimed by Pakistan?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "6",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "4",
+          "5",
+          "7"
+        ],
+        "question": "How many Fundamental Rights are in the Indian Constitution?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "The Constitution as the foundation of democracy",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Prime Minister",
+          "President",
+          "Lok Sabha"
+        ],
+        "question": "Whose duty is it to protect the independence of the judiciary?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "The President",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Prime Minister",
+          "Parliament",
+          "Home Ministry"
+        ],
+        "question": "Who appoints Governors in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "4",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "2"
+        ],
+        "question": "How many categories were there for constitutional amendments in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "A committee headed by the Chief Justice of India",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Prime Minister",
+          "Speaker of Lok Sabha",
+          "President"
+        ],
+        "question": "On whose recommendation is the Lokpal appointed?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Security Advisory Committee",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Home Ministry",
+          "National Security Council",
+          "Prime Minister"
+        ],
+        "question": "Which body declares an area as Naxal‑affected in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "124th Amendment",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "123rd Amendment",
+          "125th Amendment",
+          "121st Amendment"
+        ],
+        "question": "Which Constitutional Amendment added EWS reservation?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "NCC Act, 1948",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "President’s Rule Act",
+          "Indian Army Act",
+          "National Security Act"
+        ],
+        "question": "Under which act was NCC established?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "The Union Finance Minister",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Prime Minister",
+          "Parliament",
+          "Home Secretary"
+        ],
+        "question": "Who chairs the Direct Tax Advisory Council in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "The Central Government",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "State Governments",
+          "President",
+          "Supreme Court"
+        ],
+        "question": "Who implements the Finance Commission’s recommendations?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Railway Ministry",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Ministry of Defence",
+          "PMO",
+          "Ministry of Home Affairs"
+        ],
+        "question": "Under which ministry is the minimum railway workshop capacity jurisdiction in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "NCT of Delhi Act, 1991",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Delhi Reorganisation Act, 1956",
+          "DM Act",
+          "Urban Land Act"
+        ],
+        "question": "Which act provided for Delhi as a Union Territory with a legislature?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "After 1991 economic reforms",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1985",
+          "2005",
+          "2010"
+        ],
+        "question": "When did India’s disinvestment initiative gain momentum?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1942",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1945",
+          "1950",
+          "1935"
+        ],
+        "question": "When was the CSIR (Council of Scientific & Industrial Research) established?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1993",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1995",
+          "1990",
+          "1988"
+        ],
+        "question": "When was the NHRC (National Human Rights Commission) established?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Council of Ministers",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "PMO",
+          "Rashtrapati Secretariat",
+          "Supreme Court"
+        ],
+        "question": "On whose advice does the President act?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1974",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1980",
+          "1965",
+          "1990"
+        ],
+        "question": "When was the Central Water Commission (CWC) established?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1985–1990",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1980–1985",
+          "1990–1995",
+          "1975–1980"
+        ],
+        "question": "When did the Seventh Five-Year Plan run?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "2005",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "2000",
+          "2010",
+          "1998"
+        ],
+        "question": "In which year was the RTI Act enacted in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "2019",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "2013",
+          "2015",
+          "2017"
+        ],
+        "question": "When was the RTI Act last amended?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1964",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1975",
+          "1984",
+          "1992"
+        ],
+        "question": "When was the Central Vigilance Commission constituted?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Union Public Service Commission Act",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Staff Selection Commission Act",
+          "Service Pension Act",
+          "Indian Constitution"
+        ],
+        "question": "Where is “public service” defined in Indian law?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Senior Supreme Court Judge",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Prime Minister",
+          "President",
+          "Lok Sabha Speaker"
+        ],
+        "question": "Who chairs the Lokpal at the time of appointment?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1979",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1969",
+          "1989",
+          "1950"
+        ],
+        "question": "In which year did the UPSC Civil Services prelims begin?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "1986",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1990",
+          "1980",
+          "1975"
+        ],
+        "question": "When was the NCRB (National Crime Records Bureau) established?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Article 244",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Article 295",
+          "Article 260",
+          "Article 300"
+        ],
+        "question": "Which Article provides constitutional backing to tribal land laws in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "2022",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "2021",
+          "2020",
+          "2023"
+        ],
+        "question": "In which year was India’s artificial intelligence policy first implemented?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "2014",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "2012",
+          "2010",
+          "2016"
+        ],
+        "question": "When was the 'Make in India' initiative launched?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "2 years",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1 year",
+          "3 years",
+          "5 years"
+        ],
+        "question": "How long is the validity of UPSC Civil Services prelims result?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "7",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "5",
+          "6",
+          "8"
+        ],
+        "question": "How many special powers are granted to the Lok Sabha by the Constitution?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Election Commission",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "CBI",
+          "IRS",
+          "Tax Department"
+        ],
+        "question": "Which Act is Section 324 associated with?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Competition",
+        "correct_answer": "Ministry of Finance",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "PMO",
+          "Home Ministry",
+          "Defence Ministry"
+        ],
+        "question": "Which ministry issues the Government's document of presence?",
+        "type": "multiple"
+      }
+    ]
+  },
+  "Unity": {
+    "results": [
+      {
+        "category": "Government Exams",
+        "correct_answer": "Article 17",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Article 15",
+          "Article 14",
+          "Article 21"
+        ],
+        "question": "Which Article of the Constitution of India deals with the abolition of untouchability?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "First Five-Year Plan",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Second Five-Year Plan",
+          "Third Five-Year Plan",
+          "Fourth Five-Year Plan"
+        ],
+        "question": "Which Five-Year Plan in India gave priority to the development of agriculture and irrigation?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "MGNREGA",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "PMGSY",
+          "Bharat Nirman",
+          "Swabhiman"
+        ],
+        "question": "What is the name of the program launched to boost rural employment in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "C. Rajagopalachari",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Dr. Rajendra Prasad",
+          "Sardar Vallabhbhai Patel",
+          "Dr. B.R. Ambedkar"
+        ],
+        "question": "Which Indian personality was the first recipient of the Bharat Ratna?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Lord Lytton",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Lord Curzon",
+          "Lord Ripon",
+          "Lord Canning"
+        ],
+        "question": "Which Viceroy passed the Vernacular Press Act?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "86th Amendment",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "92nd Amendment",
+          "73rd Amendment",
+          "44th Amendment"
+        ],
+        "question": "Which Amendment made the Right to Education a fundamental right?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Sarojini Naidu",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Indira Gandhi",
+          "Rajkumari Amrit Kaur",
+          "Vijaya Lakshmi Pandit"
+        ],
+        "question": "Who was the first woman Governor of a state in free India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Article 72",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Article 70",
+          "Article 74",
+          "Article 78"
+        ],
+        "question": "Which Article deals with the powers of the President of India to grant pardons?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Narmada",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Godavari",
+          "Krishna",
+          "Yamuna"
+        ],
+        "question": "Which river flows through the rift valley?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "M.S. Swaminathan",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Verghese Kurien",
+          "C. Subramaniam",
+          "Norman Borlaug"
+        ],
+        "question": "Who is known as the father of Indian Green Revolution?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Venus",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Mercury",
+          "Mars",
+          "Jupiter"
+        ],
+        "question": "Which planet has the longest day?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "USA",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "UK",
+          "Australia",
+          "Japan"
+        ],
+        "question": "The concept of Judicial Review in India is borrowed from which country?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Tropical Dry Deciduous",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Tropical Rainforest",
+          "Montane Forest",
+          "Alpine Forest"
+        ],
+        "question": "Which type of forest occupies the largest area in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Lord William Bentinck",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Lord Curzon",
+          "Lord Lytton",
+          "Lord Ripon"
+        ],
+        "question": "Which Governor-General abolished Sati?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "1950",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1947",
+          "1951",
+          "1949"
+        ],
+        "question": "The Planning Commission of India was established in the year?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Karnam Malleswari",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Mary Kom",
+          "Saina Nehwal",
+          "P.V. Sindhu"
+        ],
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Kerala",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Karnataka",
+          "Tamil Nadu",
+          "Andhra Pradesh"
+        ],
+        "question": "In which state is the Silent Valley located?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Akbar",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Shah Jahan",
+          "Aurangzeb",
+          "Babur"
+        ],
+        "question": "Which Mughal emperor built the Buland Darwaza?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "1951–52",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1947",
+          "1950",
+          "1954"
+        ],
+        "question": "When was the first General Election held in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Jim Corbett National Park",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Kaziranga National Park",
+          "Bandipur National Park",
+          "Gir Forest National Park"
+        ],
+        "question": "Which is the first National Park in India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Jawaharlal Nehru",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Mahatma Gandhi",
+          "S. Radhakrishnan",
+          "Rajendra Prasad"
+        ],
+        "question": "Who is the author of 'The Discovery of India'?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Gujarat",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Tamil Nadu",
+          "Maharashtra",
+          "Andhra Pradesh"
+        ],
+        "question": "Which Indian state has the longest coastline?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Tax Revenue",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Loans",
+          "Foreign Aid",
+          "Disinvestment"
+        ],
+        "question": "What is the main source of income for the Government of India?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Gross Domestic Product",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Global Domestic Product",
+          "Gross Development Product",
+          "Government Development Program"
+        ],
+        "question": "What is the full form of GDP?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Vegetable waste",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Plastic",
+          "Aluminum",
+          "Pesticides"
+        ],
+        "question": "Which of the following is a biodegradable pollutant?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Speaker of Lok Sabha",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "President",
+          "Vice President",
+          "Prime Minister"
+        ],
+        "question": "Who presides over the joint session of Parliament?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Article 44",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Article 40",
+          "Article 42",
+          "Article 45"
+        ],
+        "question": "Which Article of the Indian Constitution provides for Uniform Civil Code?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Ireland",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "USA",
+          "UK",
+          "Australia"
+        ],
+        "question": "The concept of 'Directive Principles of State Policy' is borrowed from which country?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "1950",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "1947",
+          "1952",
+          "1949"
+        ],
+        "question": "In which year did India become a Republic?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Dr. B. R. Ambedkar",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Jawaharlal Nehru",
+          "Sardar Patel",
+          "Rajendra Prasad"
+        ],
+        "question": "Who is considered as the ‘Architect of the Indian Constitution’?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Assam",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Kerala",
+          "West Bengal",
+          "Sikkim"
+        ],
+        "question": "Which Indian state is the largest producer of tea?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Carbon dioxide",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "question": "Which gas is most responsible for global warming?",
+        "type": "multiple"
+      },
+      {
+        "category": "Government Exams",
+        "correct_answer": "Part IV-A",
+        "difficulty": "hard",
+        "incorrect_answers": [
+          "Part III",
+          "Part IV",
+          "Part II"
+        ],
+        "question": "Which part of the Constitution deals with Fundamental Duties?",
+        "type": "multiple"
+      }
+    ]
+  }
+}
