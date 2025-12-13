@@ -1,0 +1,168 @@
+{
+  "Production": {
+    "DisplayGoogleAds": {
+      "Android": {
+        "isDisplay": true
+      },
+      "IOS": {
+        "isDisplay": true
+      }
+    },
+    "FaceBookAdsUnitId": {
+      "Android": {
+        "AppId": "666085522712482",
+        "Banner": "ca-app-pub-6554023125470272/7684432755",
+        "InterStitial": "ca-app-pub-6554023125470272/4847658062",
+        "NativeBanner": "ca-app-pub-6554023125470272/7684432755",
+        "Rewarded": "ca-app-pub-6554023125470272/2221494726",
+        "Rewarded_Interstial": "ca-app-pub-6554023125470272/6269610436"
+      },
+      "IOS": {
+        "AppId": "666085522712482",
+        "Banner": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial": "ca-app-pub-6554023125470272/8143113318",
+        "NativeBanner": "666085522712482_666099942711040",
+        "Rewarded": "ca-app-pub-6554023125470272/3722047801",
+        "Rewarded_Interstial": "ca-app-pub-6554023125470272/3206481401",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "GoogleAdsUnitId": {
+      "Android": {
+        "AppId": "ca-app-pub-6554023125470272~4585009583",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/7684432755",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/4847658062",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/6269610436",
+        "Reward_admob": "ca-app-pub-6554023125470272/2221494726",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "ca-app-pub-6554023125470272~7694078251",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/8143113318",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/3206481401",
+        "Reward_admob": "ca-app-pub-6554023125470272/3722047801",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "IronSourceAdsUnitid": {
+      "Android": {
+        "AppId": "85460dcd",
+        "BannerAdsUnit_adMob": "thnfvcsog13bhn08",
+        "InterStitial_admob": "aeyqi3vqlv6o8sh9",
+        "RewardInterStitial_admob": "76yy3nay3ceui2a3",
+        "Reward_admob": "76yy3nay3ceui2a3",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "df1203bd",
+        "BannerAdsUnit_adMob": "iep3rxsyp9na3rw8",
+        "InterStitial_admob": "wmgt0712uuux8ju4",
+        "RewardInterStitial_admob": "qwouvdrkuwivay5q",
+        "Reward_admob": "qwouvdrkuwivay5q",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "UnityAdsUnitid": {
+      "Android": {
+        "AppId": "ca-app-pub-6554023125470272~4585009583",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/7684432755",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/4847658062",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/6269610436",
+        "Reward_admob": "ca-app-pub-6554023125470272/2221494726",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "ca-app-pub-6554023125470272~7694078251",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/8143113318",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/3206481401",
+        "Reward_admob": "ca-app-pub-6554023125470272/3722047801",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    }
+  },
+  "Test": {
+    "DisplayGoogleAds": {
+      "Android": {
+        "isDisplay": true
+      },
+      "IOS": {
+        "isDisplay": true
+      }
+    },
+    "FaceBookAdsUnitId": {
+      "Android": {
+        "AppId": "666085522712482",
+        "Banner": "ca-app-pub-3940256099942544/6300978111",
+        "InterStitial": "ca-app-pub-3940256099942544/1033173712",
+        "NativeBanner": "ca-app-pub-6554023125470272/7684432755",
+        "Rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "Rewarded_Interstial": "ca-app-pub-3940256099942544/5224354917"
+      },
+      "IOS": {
+        "AppId": "666085522712482",
+        "Banner": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial": "ca-app-pub-6554023125470272/8143113318",
+        "NativeBanner": "666085522712482_666099942711040",
+        "Rewarded": "ca-app-pub-6554023125470272/3722047801",
+        "Rewarded_Interstial": "ca-app-pub-6554023125470272/3206481401",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "GoogleAdsUnitId": {
+      "Android": {
+        "AppId": "ca-app-pub-6554023125470272~4585009583",
+        "BannerAdsUnit_adMob": "ca-app-pub-3940256099942544/6300978111",
+        "InterStitial_admob": "ca-app-pub-3940256099942544/1033173712",
+        "RewardInterStitial_admob": "ca-app-pub-3940256099942544/5224354917",
+        "Reward_admob": "ca-app-pub-3940256099942544/5224354917",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "ca-app-pub-6554023125470272~7694078251",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/8143113318",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/3206481401",
+        "Reward_admob": "ca-app-pub-6554023125470272/3722047801",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "IronSourceAdsUnitid": {
+      "Android": {
+        "AppId": "85460dcd",
+        "BannerAdsUnit_adMob": "thnfvcsog13bhn08",
+        "InterStitial_admob": "aeyqi3vqlv6o8sh9",
+        "RewardInterStitial_admob": "76yy3nay3ceui2a3",
+        "Reward_admob": "76yy3nay3ceui2a3",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "df1203bd",
+        "BannerAdsUnit_adMob": "iep3rxsyp9na3rw8",
+        "InterStitial_admob": "wmgt0712uuux8ju4",
+        "RewardInterStitial_admob": "qwouvdrkuwivay5q",
+        "Reward_admob": "qwouvdrkuwivay5q",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    },
+    "UnityAdsUnitid": {
+      "Android": {
+        "AppId": "ca-app-pub-6554023125470272~4585009583",
+        "BannerAdsUnit_adMob": "ca-app-pub-3940256099942544/6300978111",
+        "InterStitial_admob": "ca-app-pub-3940256099942544/1033173712",
+        "RewardInterStitial_admob": "ca-app-pub-3940256099942544/5224354917",
+        "Reward_admob": "ca-app-pub-3940256099942544/5224354917",
+        "appOpen_admob": "ca-app-pub-6554023125470272/7517460532"
+      },
+      "IOS": {
+        "AppId": "ca-app-pub-6554023125470272~7694078251",
+        "BannerAdsUnit_adMob": "ca-app-pub-6554023125470272/5475210650",
+        "InterStitial_admob": "ca-app-pub-6554023125470272/8143113318",
+        "RewardInterStitial_admob": "ca-app-pub-6554023125470272/3206481401",
+        "Reward_admob": "ca-app-pub-6554023125470272/3722047801",
+        "appOpen_admob": "ca-app-pub-6554023125470272/9723788298"
+      }
+    }
+  }
+}
