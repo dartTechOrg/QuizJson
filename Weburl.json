@@ -1,0 +1,56 @@
+{
+  "AdminEmail": [
+    {
+      "accessToken": "",
+      "avatar": "",
+      "email": "devankkaranwal@dartAdmin.dart",
+      "fcmToken": "",
+      "isAdmin": true,
+      "location": "test",
+      "name": "Devank Karanwal",
+      "password": "devankkaranwal123@admin"
+    },
+    {
+      "accessToken": "",
+      "avatar": "",
+      "email": "riponsk@dartAdmin.dart",
+      "fcmToken": "",
+      "isAdmin": true,
+      "location": "test",
+      "name": "Ripon Sk",
+      "password": "Arshansk512@"
+    },
+    {
+      "accessToken": "",
+      "avatar": "",
+      "email": "tajmirakhatun@dartAdmin.dart",
+      "fcmToken": "",
+      "isAdmin": true,
+      "location": "test",
+      "name": "TajMira Khatun",
+      "password": "Arshanksk512@\""
+    },
+    {
+      "accessToken": "",
+      "avatar": "",
+      "email": "michele@dartAdmin.dart",
+      "fcmToken": "",
+      "isAdmin": true,
+      "location": "test",
+      "name": "Michhele",
+      "password": "michelePh@admin"
+    }
+  ],
+  "PrivacyAndTerms": {
+    "Privacy": "https://sites.google.com/view/privacyclickcash/home",
+    "Socialurl": {
+      "discord": "https://discord.gg/cQrYAsyRg",
+      "facebook": "https://www.facebook.com/profile.php?id=61578676002217&sk=about",
+      "instagram": "https://www.instagram.com/coinclash_official?utm_source=qr&igsh=dTVvb3Z5M3R3a2px",
+      "snapchat": "https://www.snapchat.com/add/devankkaranwal?share_id=xPaly2BtKu8&locale=en-IN",
+      "telegram": "https://t.me/ClickCashPublic",
+      "whatsapp": "https://whatsapp.com/channel/0029VbB9U9E0gcfIYGvYNA0i"
+    },
+    "Terms": "https://sites.google.com/view/newclickcahstermsandcondition/home"
+  }
+}
