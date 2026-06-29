@@ -1,8 +1,14 @@
-[
+{
+  "Rewards":[
   "1 Coins",
   "5 Coins",
   "10 Coins",
   "7 Coins",
   "0 Coins",
   "3 Coins"
-]
+],
+"CasinoSlots":{
+  "maxSpins": 3,
+  "minSpins": 1
+}
+}
