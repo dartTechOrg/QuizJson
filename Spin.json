@@ -8,7 +8,7 @@
   "3 Coins"
 ],
 "CasinoSlots":{
-  "maxSpins": 100,
-  "minSpins": 30
+  "maxSpins": 7,
+  "minSpins": 1
 }
 }

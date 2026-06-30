@@ -2466,5 +2466,1209 @@
         "type": "multiple"
       }
     ]
+  },
+  "Silver": {
+  "results": [
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "1. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "2. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "3. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "4. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "5. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "6. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "7. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "8. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "9. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "10. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "11. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "12. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "13. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "14. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "15. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "16. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "17. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "18. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "19. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "20. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "21. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "22. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "23. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "24. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "25. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "26. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "27. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "28. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "29. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "30. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "31. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "32. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "33. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "34. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "35. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "36. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "37. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "38. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "39. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "40. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "41. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "42. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "43. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "44. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "45. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "46. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "47. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "48. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "49. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "50. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "51. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "52. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "53. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "54. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "55. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "56. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "57. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "58. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "59. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "60. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "61. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "62. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "63. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "64. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "65. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "66. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "67. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "68. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "69. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "70. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "71. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "72. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "73. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "74. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "75. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "76. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "77. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "78. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "79. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "80. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "81. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "82. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "83. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "84. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "85. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "86. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "87. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "88. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "89. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "90. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "91. What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "92. Who is known as the Father of the Nation in India?",
+      "correct_answer": "Mahatma Gandhi",
+      "incorrect_answers": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "93. Which is the national animal of India?",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "94. Which is the national bird of India?",
+      "correct_answer": "Peacock",
+      "incorrect_answers": [
+        "Parrot",
+        "Sparrow",
+        "Eagle"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "95. Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "96. How many days are there in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "97. Which gas do plants absorb?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "98. What is H2O commonly known as?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Hydrogen",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "99. Who wrote the Indian National Anthem?",
+      "correct_answer": "Rabindranath Tagore",
+      "incorrect_answers": [
+        "Bankim Chandra Chatterjee",
+        "Sarojini Naidu",
+        "Premchand"
+      ]
+    },
+    {
+      "category": "Government Exams",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "100. Which is the largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ]
+    }
+  ]
   }
 }
